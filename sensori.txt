@@ -1,0 +1,17 @@
+Sensori
+
+pH        E201 BNC
+PM        SDS011
+GAS       MQ 2
+          MQ 135
+          MQ 131
+T e %     DHT 11
+dB rumore
+lux intensità luminosa
+timer    ZS 042
+prox     SR 505
+CO2      MG 811
+UV
+HPa      GY-BM E/P 280 (BMP 280)
+RGB
+% terreno
