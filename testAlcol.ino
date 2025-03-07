@@ -1,10 +1,10 @@
 #define valoreNormale 90   
 #define valoreElevato 300  
-#define MQ3pin 0            // Pin A0, analogico 0
+#define MQ3pin 0            // Pin A0, analogico 0 sulla scheda arduino
                             //                            0
                             //                     ---------------   
                             //                     |   |    |    | 
-                            // sul sensore MQ-3   vcc gnd   nc  data
+                            // sul sensore MQ-3   +5V gnd   nc  data
  
 float misuraCampione;  
  
